@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crypto_symbol">符号</string>
+    <string name="crypto_rank">排名</string>
+    <string name="crypto_price">价格</string>
+    <string name="crypto_market_cap">市值</string>
+    <string name="crypto_volume_24h">24小时交易量</string>
+    <string name="crypto_circulating_supply">流通供应量</string>
+    <string name="crypto_total_supply">总供应量</string>
+    <string name="crypto_max_supply">最大供应量</string>
+    <string name="crypto_change_1h">1小时变化</string>
+    <string name="crypto_change_24h">24小时变化</string>
+    <string name="crypto_change_7d">7天变化</string>
+    <string name="close_button">关闭</string>
+    <string name="not_available">不适用</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crypto_symbol">Символ</string>
+    <string name="crypto_rank">Ранг</string>
+    <string name="crypto_price">Цена</string>
+    <string name="crypto_market_cap">Рыночная капитализация</string>
+    <string name="crypto_volume_24h">Объем 24ч</string>
+    <string name="crypto_circulating_supply">Циркулирующее предложение</string>
+    <string name="crypto_total_supply">Общее предложение</string>
+    <string name="crypto_max_supply">Максимальное предложение</string>
+    <string name="crypto_change_1h">Изменение 1ч</string>
+    <string name="crypto_change_24h">Изменение 24ч</string>
+    <string name="crypto_change_7d">Изменение 7д</string>
+    <string name="close_button">Закрыть</string>
+    <string name="not_available">Н/Д</string>
+</resources>

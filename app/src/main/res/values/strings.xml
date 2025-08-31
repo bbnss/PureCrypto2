@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PureCrypto2</string>
+    <string name="crypto_symbol">Symbol</string>
+    <string name="crypto_rank">Rank</string>
+    <string name="crypto_price">Price</string>
+    <string name="crypto_market_cap">Market Cap</string>
+    <string name="crypto_volume_24h">Volume 24h</string>
+    <string name="crypto_circulating_supply">Circulating Supply</string>
+    <string name="crypto_total_supply">Total Supply</string>
+    <string name="crypto_max_supply">Max Supply</string>
+    <string name="crypto_change_1h">Change 1h</string>
+    <string name="crypto_change_24h">Change 24h</string>
+    <string name="crypto_change_7d">Change 7d</string>
+    <string name="close_button">Close</string>
+    <string name="not_available">N/A</string>
+</resources>

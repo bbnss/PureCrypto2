@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crypto_symbol">Simbolo</string>
+    <string name="crypto_rank">Rank</string>
+    <string name="crypto_price">Prezzo</string>
+    <string name="crypto_market_cap">Capitalizzazione</string>
+    <string name="crypto_volume_24h">Volume 24h</string>
+    <string name="crypto_circulating_supply">Supply in circolazione</string>
+    <string name="crypto_total_supply">Supply totale</string>
+    <string name="crypto_max_supply">Supply massimo</string>
+    <string name="crypto_change_1h">Variazione 1h</string>
+    <string name="crypto_change_24h">Variazione 24h</string>
+    <string name="crypto_change_7d">Variazione 7d</string>
+    <string name="close_button">Chiudi</string>
+    <string name="not_available">N/A</string>
+</resources>
