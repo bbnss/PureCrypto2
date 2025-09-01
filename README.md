@@ -4,7 +4,10 @@
 
 A tiny, reliable app to peek at crypto prices without the drama. No flashy charts, no endless ads, just the price info you care about — all the time.
 
----
+<p align="center">
+  <img src="PureCrypto2/screenshot.png" alt="Screenshot App" width="300">
+</p>
+
 
 ## What it is
 
