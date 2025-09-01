@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">PureCrypto2</string>
     <string name="crypto_symbol">Symbole</string>
     <string name="crypto_rank">Classement</string>
     <string name="crypto_price">Prix</string>
